@@ -21,7 +21,6 @@ const Team = () => {
                         <img src={process.env.PUBLIC_URL + '/images/alan.jpeg'} alt="Alan Rymov" />
                         <h4>Alan Rymov</h4>
                         <p className="role">IFRS 17 & Solvency II Consultant / Core Model Developer</p>
-                        <p className="role">IFRS 17 & Solvency II Consultant / Core Model Developer</p>
                         <p className="expertise">Fellow of the Society of Actuaries (FSA). Provides expert consulting on
                             standards and contributes to core actuarial model development & validation.</p>
                         <a href="https://linkedin.com/in/alan-rymov-08599b8" target="_blank" rel="noopener noreferrer" className="linkedin-link">LinkedIn Profile</a>
