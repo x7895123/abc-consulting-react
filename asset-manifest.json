@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abc-consulting-react/static/css/main.49fbc5f6.css",
-    "main.js": "/abc-consulting-react/static/js/main.20f0e77d.js",
+    "main.js": "/abc-consulting-react/static/js/main.526dd883.js",
     "static/js/453.d2f2029e.chunk.js": "/abc-consulting-react/static/js/453.d2f2029e.chunk.js",
     "index.html": "/abc-consulting-react/index.html",
     "main.49fbc5f6.css.map": "/abc-consulting-react/static/css/main.49fbc5f6.css.map",
-    "main.20f0e77d.js.map": "/abc-consulting-react/static/js/main.20f0e77d.js.map",
+    "main.526dd883.js.map": "/abc-consulting-react/static/js/main.526dd883.js.map",
     "453.d2f2029e.chunk.js.map": "/abc-consulting-react/static/js/453.d2f2029e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49fbc5f6.css",
-    "static/js/main.20f0e77d.js"
+    "static/js/main.526dd883.js"
   ]
 }
