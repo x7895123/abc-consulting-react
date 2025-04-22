@@ -6,7 +6,8 @@ const Footer = () => {
     return (
         <footer>
             <div className="container">
-                <p>© {currentYear} ABC Consulting. All rights reserved. Specialized Outsourcing Partner for IFRS 17 & Solvency II Implementations.</p>
+                <p>© {currentYear} ABC Consulting. All rights reserved.</p>
+                <p>Specialized Outsourcing Partner for IFRS 17 & Solvency II Implementations.</p>
                 {/* Add links to Privacy Policy or Terms if needed */}
                 {/* Example: <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a> */}
             </div>
