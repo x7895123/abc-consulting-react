@@ -30,14 +30,14 @@ const ParticlesBackground = () => {
        fpsLimit: 60,
        particles: {
            number: {
-               value: 40,
+               value: 100,
                density: {
                    enable: true,
                    value_area: 800 // Corrected property name if needed based on version
                }
            },
            color: {
-               value: "#ccd6f6"
+               value: "#4ec9ab"
            },
            shape: {
                type: "circle"
@@ -53,7 +53,7 @@ const ParticlesBackground = () => {
            links: {
                enable: true,
                distance: 250,
-               color: "#8892b0",
+               color: "#2d7966",
                opacity: 0.4,
                width: 1
            },
@@ -92,9 +92,9 @@ const ParticlesBackground = () => {
                    quantity: 4 // Correct property name
                 },
                 // Add other modes if needed (bubble, grab, remove)
-                // grab: { distance: 400, links: { opacity: 1 } },
-                // bubble: { distance: 400, size: 40, duration: 2, opacity: 0.8 },
-                // remove: { quantity: 2 }
+                grab: { distance: 400, links: { opacity: 1 } },
+                bubble: { distance: 400, size: 40, duration: 2, opacity: 0.8 },
+                remove: { quantity: 2 }
            }
        },
        detectRetina: true // Correct property name
