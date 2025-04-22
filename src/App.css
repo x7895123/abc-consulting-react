@@ -38,7 +38,7 @@ body {
   top: 0;
   left: 0;
   background-color: var(--bg-dark);
-  background-image: url(''); /* Optional: Add static fallback bg image here */
+  /*background-image: url(''); !* Optional: Add static fallback bg image here *!*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
