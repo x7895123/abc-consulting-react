@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abc-consulting-react/static/css/main.577af8ed.css",
-    "main.js": "/abc-consulting-react/static/js/main.03b94f65.js",
+    "main.css": "/abc-consulting-react/static/css/main.49fbc5f6.css",
+    "main.js": "/abc-consulting-react/static/js/main.4ddadf21.js",
     "static/js/453.d2f2029e.chunk.js": "/abc-consulting-react/static/js/453.d2f2029e.chunk.js",
     "index.html": "/abc-consulting-react/index.html",
-    "main.577af8ed.css.map": "/abc-consulting-react/static/css/main.577af8ed.css.map",
-    "main.03b94f65.js.map": "/abc-consulting-react/static/js/main.03b94f65.js.map",
+    "main.49fbc5f6.css.map": "/abc-consulting-react/static/css/main.49fbc5f6.css.map",
+    "main.4ddadf21.js.map": "/abc-consulting-react/static/js/main.4ddadf21.js.map",
     "453.d2f2029e.chunk.js.map": "/abc-consulting-react/static/js/453.d2f2029e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.577af8ed.css",
-    "static/js/main.03b94f65.js"
+    "static/css/main.49fbc5f6.css",
+    "static/js/main.4ddadf21.js"
   ]
 }
